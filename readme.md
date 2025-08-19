@@ -26,12 +26,13 @@
 
 | 날짜       | 문제 (링크) | 언어 | 풀이 코드 | 상태 | 스크린샷/디코 링크 | 메모 |
 |------------|-------------|------|-----------|------|--------------------|------|
-| 2025-08-19 | [BOJ 16236 아기 상어](https://www.acmicpc.net/problem/16236) | Java | [코드](problems/2025-08-19/Main.java) | ✅ | [이미지](screenshots/2025-08-19.png) | BFS 최적화 필요 |
-| 2025-08-20 | [BOJ 1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | Java | [코드](problems/2025-08-20/Main.java) | ✅ | [디코](#) | 메모리 관리 이슈 |
-| 2025-08-21 | [BOJ 14502 연구소](https://www.acmicpc.net/problem/14502) | Java | [코드](problems/2025-08-21/Main.java) | ❌ | [디코](#) | 9:30까지 시도 |
-| 2025-08-22 | [BOJ 1234 예시 문제](https://www.acmicpc.net/problem/1234) | Java | [코드](problems/2025-08-22/Main.java) | ✅ | [이미지](screenshots/2025-08-22.png) | 투포인터 연습 |
-
+| 2025-08-20 | [BOJ 16236 아기 상어](https://www.acmicpc.net/problem/16236) | Java | [코드](problems/2025-08-19/Main.java) | ✅  | BFS 최적화 필요 |
+| 2025-08-21 | [BOJ 1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | Java | [코드](problems/2025-08-20/Main.java) | ✅ |  |
+| 2025-08-22 | [BOJ 14502 연구소](https://www.acmicpc.net/problem/14502) | Java | [코드](problems/2025-08-21/Main.java) | ❌ | |
+| 2025-08-23 | [BOJ 1234 예시 문제](https://www.acmicpc.net/problem/1234) | Java | [코드](problems/2025-08-22/Main.java) | ✅  |  |
+| 2025-08-24 | [BOJ 1234 예시 문제](https://www.acmicpc.net/problem/1234) | Java | [코드](problems/2025-08-22/Main.java) | ✅  |  |
+| 2025-08-25 | [BOJ 1234 예시 문제](https://www.acmicpc.net/problem/1234) | Java | [코드](problems/2025-08-22/Main.java) | ✅  |  |
+| 2025-08-26 | [BOJ 1234 예시 문제](https://www.acmicpc.net/problem/1234) | Java | [코드](problems/2025-08-22/Main.java) | ✅  |  |
 ---
 
-### ➕ 복붙용 템플릿
 
