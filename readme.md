@@ -26,10 +26,13 @@
 
 | 날짜       | 문제 |
 |------------|------|
-| 2025-08-20 | [프로그래머스 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |
-| 2025-08-21 | [프로그래머스 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |
-| 2025-08-22 | [프로그래머스 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |
-| 2025-08-23 | [프로그래머스 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |
+| 2025-08-20 | [lv1, 정답률 77퍼](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |
+| 2025-08-21 | |
+| 2025-08-22 | |
+| 2025-08-23 | |
+| 2025-08-24 | |
+| 2025-08-25 | |
+| 2025-08-26 | |
 
 ---
 
