@@ -27,7 +27,7 @@
 | 날짜       | 문제 |
 |------------|------|
 | 2025-08-20 | [lv1, 정답률 77퍼](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |
-| 2025-08-21 | |
+| 2025-08-21 | [lv1, 정답률 72퍼](https://school.programmers.co.kr/learn/courses/30/lessons/138477) |
 | 2025-08-22 | |
 | 2025-08-23 | |
 | 2025-08-24 | |
