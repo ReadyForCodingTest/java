@@ -6,7 +6,6 @@ class Solution {
         int[] answer = new int[score.length];
         List<Integer> temp = new ArrayList<>();
         int min = 2001;
-        int min_idx = -1;
 
         for(int i =0; i< score.length ; i++) {
 
