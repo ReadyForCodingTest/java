@@ -34,7 +34,9 @@
 | 2025-08-25 | |
 | 2025-08-26 | [lv1, 정답률 79퍼](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
 | 2025-08-27 | [lv1, 정답률 67퍼](https://school.programmers.co.kr/learn/courses/30/lessons/136798) |
-| 2025-08-28 | [백준, 정답률 68퍼](https://www.acmicpc.net/problem/27211) |
+| 2025-08-28 | [골드5, 정답률 68퍼](https://www.acmicpc.net/problem/27211) |
+| 2025-08-29 | [lv1, 정답률 73퍼](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
+
 ---
 
 
