@@ -38,6 +38,8 @@
 | 2025-08-29 | [lv1, 정답률 73퍼](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
 | 2025-09-01 | [lv1, 정답률 72퍼](https://school.programmers.co.kr/learn/courses/30/lessons/132267) |
 | 2025-09-02 | [lv1, 정답률 73퍼](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |
+| 2025-09-02 | [lv2, 정답률 71퍼](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |
+
 
 ---
 
