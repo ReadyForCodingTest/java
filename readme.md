@@ -49,6 +49,7 @@
 | 2025-09-16 | [lv2, 정답률 52퍼](https://school.programmers.co.kr/learn/courses/30/lessons/389479) |
 | 2025-09-17 | [lv2, 정답률 52퍼](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
 | 2025-09-18 | [lv2, 정답률 60퍼](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |
+| 2025-09-19 | [lv2, 정답률 64퍼](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
 ---
 
 
