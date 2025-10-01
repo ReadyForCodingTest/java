@@ -47,6 +47,12 @@
 | 2025-09-11 | [lv2, 정답률 63퍼](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |
 | 2025-09-12 | [lv2, 정답률 63퍼](https://school.programmers.co.kr/learn/courses/30/lessons/17684) |
 | 2025-09-16 | [lv2, 정답률 52퍼](https://school.programmers.co.kr/learn/courses/30/lessons/389479) |
+| 2025-09-17 | [lv2, 정답률 52퍼](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
+| 2025-09-18 | [lv2, 정답률 60퍼](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |
+| 2025-09-19 | [lv2, 정답률 64퍼](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
+| 2025-10-01 | [골드5, 정답률 24퍼](https://www.acmicpc.net/problem/13549) |
+| 2025-10-02 | [실버2, 정답률 40퍼](https://www.acmicpc.net/problem/16953) |
+
 ---
 
 
