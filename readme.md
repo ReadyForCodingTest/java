@@ -52,6 +52,8 @@
 | 2025-09-19 | [lv2, 정답률 64퍼](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
 | 2025-10-01 | [골드5, 정답률 24퍼](https://www.acmicpc.net/problem/13549) |
 | 2025-10-02 | [실버2, 정답률 40퍼](https://www.acmicpc.net/problem/16953) |
+| 2025-10-10 | [골드4, 정답률 35퍼](https://www.acmicpc.net/problem/1715) |
+| 2025-10-10 | [실버2, 정답률 46퍼](https://www.acmicpc.net/problem/23757) |
 
 ---
 
