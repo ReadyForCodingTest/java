@@ -11,23 +11,23 @@ public class bj23757 {
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
         PriorityQueue<Integer> pq1 = new PriorityQueue<>((a, b) -> b - a);
-        PriorityQueue<Integer> pq2 = new PriorityQueue<>((a, b) -> b - a);
+        int[] arr1 = new int[M];
         
         st = new StringTokenizer(br.readLine());
         for(int i=0;i<N;i++) pq1.add(Integer.parseInt(st.nextToken()));
         
         st = new StringTokenizer(br.readLine());
-        for(int i=0;i<M;i++) pq2.add(Integer.parseInt(st.nextToken()));
+        for(int i=0;i<M;i++) arr1[i]=Integer.parseInt(st.nextToken());
         
-        while(!pq2.isEmpty())
+        for(int i=0;i<M;i++)
         {
             if(!pq1.isEmpty())
             {
-                if(pq1.peek()>=pq2.peek())
+                if(pq1.peek()>=arr1[i])
                 {
                     int a = pq1.poll();
-                    int b = pq2.poll();
-                    if(b-a>=1) pq2.add(b-a);
+                    int b = arr1[i];
+                    if(a-b>=1) pq1.add(a-b);
                 }
                 else
                 {
