@@ -54,6 +54,8 @@
 | 2025-10-02 | [실버2, 정답률 40퍼](https://www.acmicpc.net/problem/16953) |
 | 2025-10-10 | [골드4, 정답률 35퍼](https://www.acmicpc.net/problem/1715) |
 | 2025-10-10 | [실버2, 정답률 46퍼](https://www.acmicpc.net/problem/23757) |
+| 2025-10-13 | [골드2, 정답률 50퍼](https://www.acmicpc.net/problem/1766) |
+| 2025-10-13 | [골드3, 정답률 58퍼](https://www.acmicpc.net/problem/2252) |
 
 ---
 
