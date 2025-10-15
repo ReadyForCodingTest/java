@@ -50,6 +50,17 @@
 | 2025-09-17 | [lv2, 정답률 52퍼](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
 | 2025-09-18 | [lv2, 정답률 60퍼](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |
 | 2025-09-19 | [lv2, 정답률 64퍼](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
+| 2025-10-01 | [골드5, 정답률 24퍼](https://www.acmicpc.net/problem/13549) |
+| 2025-10-02 | [실버2, 정답률 40퍼](https://www.acmicpc.net/problem/16953) |
+| 2025-10-10 | [골드4, 정답률 35퍼](https://www.acmicpc.net/problem/1715) |
+| 2025-10-10 | [실버2, 정답률 46퍼](https://www.acmicpc.net/problem/23757) |
+| 2025-10-13 | [골드2, 정답률 50퍼](https://www.acmicpc.net/problem/1766) |
+| 2025-10-13 | [골드3, 정답률 58퍼](https://www.acmicpc.net/problem/2252) |
+| 2025-10-14 | [실버5, 정답률 43퍼](https://www.acmicpc.net/problem/10815) |
+| 2025-10-14 | [골드5, 정답률 38퍼](https://www.acmicpc.net/problem/2467) |
+| 2025-10-15 | [브론2, 정답률 50퍼](https://www.acmicpc.net/problem/2747) |
+| 2025-10-15 | [실버3, 정답률 34퍼](https://www.acmicpc.net/problem/2579) |
+
 ---
 
 
