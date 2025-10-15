@@ -58,6 +58,8 @@
 | 2025-10-13 | [골드3, 정답률 58퍼](https://www.acmicpc.net/problem/2252) |
 | 2025-10-14 | [실버5, 정답률 43퍼](https://www.acmicpc.net/problem/10815) |
 | 2025-10-14 | [골드5, 정답률 38퍼](https://www.acmicpc.net/problem/2467) |
+| 2025-10-15 | [브론2, 정답률 50퍼](https://www.acmicpc.net/problem/2747) |
+| 2025-10-15 | [실버3, 정답률 34퍼](https://www.acmicpc.net/problem/2579) |
 
 ---
 
